@@ -1,0 +1,8 @@
+lightgbm
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tqdm
+git+https://github.com/microsoft/torchgeo.git
